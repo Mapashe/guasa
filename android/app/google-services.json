@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342310599433",
+    "firebase_url": "https://snepchet-7cbcc.firebaseio.com",
+    "project_id": "snepchet-7cbcc",
+    "storage_bucket": "snepchet-7cbcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342310599433:android:90d11b2dd9b353968771d8",
+        "android_client_info": {
+          "package_name": "com.pack.tareini_ultimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342310599433-dcr4fsonan7klllms9ttj633qhnem76g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWkxx7VS4XFieW6OA-wxrF5cBqO7CwUD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342310599433-dcr4fsonan7klllms9ttj633qhnem76g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
